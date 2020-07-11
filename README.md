@@ -55,4 +55,5 @@ Just for the culture:
 - 💬 Ask me about: Code, food and life
 - 📫 How to reach me: manuarorawork@gmail.com
 - ⚡ Fun fact: to catch(err) { console.log("is Human") }
-  Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
+
+Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
