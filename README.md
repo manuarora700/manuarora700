@@ -44,7 +44,7 @@ Happy Coding! 😊
 
 </div>
 Just for the culture:
-- Recent Project: [Trippers](https://trippers-node.herokuapp.com)
+
 - 🔭 I’m currently working on: Fullstack development (Node and React) and DS Algo
 - 🌱 I’m currently learning: Complex algorithms
 - 👯 I’m looking to collaborate on: Gatsby Projects
