@@ -39,10 +39,10 @@ Happy Coding! 😊
 <a href="https://www.instagram.com/mannupaaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="http://www.manuarora.me" target="_blank">
-<img src="https://img.shields.io/badge/website-manuarora.me-blue" alt="website"/>
+<img src="https://img.shields.io/badge/manuarora.me-%230076D6.svg?&style=flat-square&logo=internet%20explorer&logoColor=white" alt="website"/>
 </a>
 <a href="http://www.manupaaji.codes" target="_blank">
-<img src="https://img.shields.io/badge/Projects-72-yellow" alt="Projects"/>
+<img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
 </a>
 
 </div>
