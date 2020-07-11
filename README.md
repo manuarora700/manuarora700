@@ -41,6 +41,9 @@ Happy Coding! 😊
 <a href="http://www.manuarora.me" target="_blank">
 <img src="https://img.shields.io/badge/website-manuarora.me-blue" alt="website"/>
 </a>
+<a href="http://www.manupaaji.codes" target="_blank">
+<img src="https://img.shields.io/badge/Projects-72-yellow" alt="Projects"/>
+</a>
 
 </div>
 Just for the culture:
@@ -52,5 +55,4 @@ Just for the culture:
 - 💬 Ask me about: Code, food and life
 - 📫 How to reach me: manuarorawork@gmail.com
 - ⚡ Fun fact: to catch(err) { console.log("is Human") }
-
-Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
+  Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
