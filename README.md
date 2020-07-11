@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **manuarora700/manuarora700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,10 +38,13 @@ Happy Coding! 😊
 <a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mannupaaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="http://www.manuarora.me" target="_blank">
+<img src="https://img.shields.io/badge/website-manuarora.me-blue" alt="website"/>
+</a>
 
 </div>
 Just for the culture:
-
+- Recent Project: [Trippers](https://trippers-node.herokuapp.com)
 - 🔭 I’m currently working on: Fullstack development (Node and React) and DS Algo
 - 🌱 I’m currently learning: Complex algorithms
 - 👯 I’m looking to collaborate on: Gatsby Projects
@@ -52,4 +53,4 @@ Just for the culture:
 - 📫 How to reach me: manuarorawork@gmail.com
 - ⚡ Fun fact: to catch(err) { console.log("is Human") }
 
-Special thanks to [ABSphread](https://www.github.com/absphreak) for letting me know about this cool feature.
+Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
