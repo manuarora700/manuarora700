@@ -29,7 +29,7 @@ Happy Coding! 😊
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&hide_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Manu Arora's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats">
 
 [![HitCount](http://hits.dwyl.com/manuarora700/manuarora700.svg)](http://hits.dwyl.com/manuarora700/manuarora700)
 
