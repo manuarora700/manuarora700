@@ -40,12 +40,12 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
 or **[email](mailto:manuarorawork@gmail.com)** me
 
-Happy Coding! 😊 <br> <br>
+Happy Coding! 😊 <br>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats">
 
-<br><br>
+<br>
 
 <h4><strong>Languages and Tools that I use</strong></h4>  
 
