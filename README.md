@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <div align="center" width="50">
 
 <!-- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/> -->
+Thanks for increasing my visitors count :p ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700)
 
 </div>
-Thanks for increasing my visitors count :p ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700)
 You have finally discovered my Github profile. 👋 <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
