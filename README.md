@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700)
 [![HitCount](http://hits.dwyl.com/manuarora700/manuarora700.svg)](http://hits.dwyl.com/manuarora700/manuarora700)
+<a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mannupaaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="http://www.manupaaji.codes" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Website&message=manupaaji.codes&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
+</a>
+<a href="http://www.manupaaji.codes" target="_blank">
+<img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
+</a>
 <br>
 
 Thanks for increasing my visitors count :p  <br>
@@ -31,7 +40,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
 or **[email](mailto:manuarorawork@gmail.com)** me
 
-Happy Coding! 😊 <br>
+Happy Coding! 😊 <br> <br>
 **Languages and Tools that I use:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -46,22 +55,12 @@ Happy Coding! 😊 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <div align="center">
+  <br>B=<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats">
 
 
 
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mannupaaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="http://www.manupaaji.codes" target="_blank">
-<img src="https://img.shields.io/static/v1?label=Website&message=manupaaji.codes&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
-</a>
-<a href="http://www.manupaaji.codes" target="_blank">
-<img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
-</a>
 
 </div>
 Just for the culture:
