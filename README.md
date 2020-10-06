@@ -36,11 +36,13 @@ Here are some ideas to get you started:
 
 Thanks for increasing my visitors count :p  <br>
 You have finally discovered my Github profile. 👋 <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
-or **[email](mailto:manuarorawork@gmail.com)** me
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br><br>
 
-Happy Coding! 😊 <br>
+I've done a ton of **[projects](https://manupaaji.codes)** with various technologies. <br>
+View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)** <br>
+Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
+or **[email](mailto:manuarorawork@gmail.com)** me <br>
+Happy Coding, my brothers! 💪🏽 <br>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats">
