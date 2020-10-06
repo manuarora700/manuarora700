@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 Thanks for increasing my visitors count :p  <br>
 You have finally discovered my Github profile. 👋 <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br><br>
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 
 I've done a ton of **[projects](https://manupaaji.codes)** with various technologies. <br>
 View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)** <br>
