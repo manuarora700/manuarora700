@@ -21,7 +21,7 @@
 <br>
 
 Thanks for increasing my visitors count :p  <br>
-You have finally discovered my Github profile. 👋 <br>
+You have finally discovered my Github profile. 👋
 <br>
 
 I've done a ton of **[projects](https://manupaaji.codes)** with various technologies, 
@@ -54,7 +54,7 @@ Happy Coding, my brothers! 💪🏽 <br>
 
 - 🔭 I’m currently working on: Fullstack development (Next JS, Gatsby and React) and DS Algo
 - 🌱 I’m currently learning: Complex algorithms
-- 👯 I’m looking to collaborate on: NextJS Projects and Devops
+- 👯 I’m looking to collaborate on: NextJS Projects and DevOps
 - 💬 Ask me about: Code, food and life
 - 📫 How to reach me: manuarorawork@gmail.com
 
