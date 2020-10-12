@@ -73,4 +73,8 @@ Happy Coding, my brothers! 💪🏽 <br>
 - 📫 How to reach me: manuarorawork@gmail.com
 - ⚡ Fun fact: to catch(err) { console.log("is Human") }
 
+<br>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
+
+
 Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
