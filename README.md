@@ -27,7 +27,8 @@ You have finally discovered my Github profile. 👋 <br>
 I've done a ton of **[projects](https://manupaaji.codes)** with various technologies, 
 View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)**, 
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**, 
-or **[email](mailto:manuarorawork@gmail.com)** me <br>
+or **[email](mailto:manuarorawork@gmail.com)** me. 
+<br>
 Happy Coding, my brothers! 💪🏽 <br>
 
 
@@ -51,13 +52,11 @@ Happy Coding, my brothers! 💪🏽 <br>
 </div>
 <h3><strong>Just for the culture:</strong></h3>
 
-- 🔭 I’m currently working on: Fullstack development (Node and React) and DS Algo
+- 🔭 I’m currently working on: Fullstack development (Next JS, Gatsby and React) and DS Algo
 - 🌱 I’m currently learning: Complex algorithms
-- 👯 I’m looking to collaborate on: NextJS Projects
-- 🤔 I’m looking for help with: Security fundamentals and practices
+- 👯 I’m looking to collaborate on: NextJS Projects and Devops
 - 💬 Ask me about: Code, food and life
 - 📫 How to reach me: manuarorawork@gmail.com
-- ⚡ Fun fact: to catch(err) { console.log("is Human") }
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
