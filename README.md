@@ -1,17 +1,3 @@
-<!--
-**manuarora700/manuarora700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/manuarora700/manuarora700/blob/master/gifs/Hi.gif" width="30px"> </h2>
 
 <div align="center" width="50">
@@ -36,11 +22,11 @@ Here are some ideas to get you started:
 
 Thanks for increasing my visitors count :p  <br>
 You have finally discovered my Github profile. 👋 <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+<br>
 
-I've done a ton of **[projects](https://manupaaji.codes)** with various technologies. <br>
-View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)** <br>
-Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
+I've done a ton of **[projects](https://manupaaji.codes)** with various technologies, 
+View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)**, 
+Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**, 
 or **[email](mailto:manuarorawork@gmail.com)** me <br>
 Happy Coding, my brothers! 💪🏽 <br>
 
