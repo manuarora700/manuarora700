@@ -12,10 +12,10 @@
 <a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mannupaaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="http://www.manupaaji.codes" target="_blank">
+<a href="http://www.manuarora.in" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=manupaaji.codes&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
-<a href="http://www.manupaaji.codes" target="_blank">
+<a href="http://www.manuarora.in" target="_blank">
 <img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
 </a>
 <br>
@@ -24,7 +24,9 @@ Thanks for increasing my visitors count :p  <br>
 You have finally discovered my Github profile. 👋
 <br>
 
-I've done a ton of **[projects](https://manupaaji.codes)** with various technologies, 
+I write about Technology, snippets and resources at my **[blog](https://manuarora.in/blog)**.
+
+I've done a ton of **[projects](https://manuarora.in/projects)** with various technologies, 
 View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)**, 
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**, 
 or **[email](mailto:manuarorawork@gmail.com)** me. 
