@@ -8,7 +8,6 @@
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700)
-[![HitCount](http://hits.dwyl.com/manuarora700/manuarora700.svg)](http://hits.dwyl.com/manuarora700/manuarora700)
 <a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/maninthere" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
