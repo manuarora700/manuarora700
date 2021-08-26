@@ -29,31 +29,48 @@ or **[email](mailto:chaizer.music@gmail.com)** me.
 <img src="https://github-readme-stats.vercel.app/api?username=malachaifrazier&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Malachai Frazier's Github Stats">
 <br>
 
-<h3><strong>Languages and Tools that I use </strong></h3>
+<h3>
+  <strong>Languages, Frameworks and Tools that I use 🛠️</strong>
+</h3>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<hr/>
+- <i>Ruby on Rails</i>
+- <i>React/React Native</i>
+- <i>NodeJS</i>
+- <i>VueJS</i>
+- <i>EmberJS</i>
+- <i>JQuery</i>
+<!-- <hr/> -->
+- <i>JavaScript</i>
+- <i>Bootstrap</i>
+- <i>HTML5</i>
+- <i>CSS3</i>
+- <i>Git</i>
+<!-- <hr/> -->
+<!-- - <i>GoLang</i> -->
+- <i>Docker</i>
+- <i>PostgreSQL</i>
+- <i>MySQL</i>
+<!-- <hr/> -->
+- <i>Redis</i>
+- <i>MongoDB</i>
+- <i>GraphQL</i>
+- <i>Heroku</i>
+- <i>AWS</i>
 
-<div align="center"></div>
+<div align="center"><br/></div>
 
 <h3>
   <strong>For the culture 💪🏽</strong>
 </h3>
 
-- 🔭 Currently working on: Fullstack development, Essentialism, Mental Health
-- 🌱 Currently learning: Product, Design and React Native, Self Love
+- 🔭 Working on: Fullstack development, Essentialism, Mental Health
+- 🌱 Learning: Product, Design and React Native, Self Love
 - 👯 Looking to collaborate on: Web, Mobile and IoT Projects
 - 💬 Ask me about: Code, startups and life
-- 📫 How to reach me: chaizer.music@gmail.com
+- 📫 How to reach me: chaizer.music@gmail.com &
+**[@Chaizermusic](https://twitter.com/chaizermusic)**
+
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
