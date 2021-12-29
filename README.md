@@ -26,7 +26,7 @@ You have finally discovered my Github profile. 👋
 I write about Technology, snippets and resources at my **[blog](https://manuarora.in/blog)**.
 
 I've done a ton of **[projects](https://manuarora.in/projects)** with various technologies, 
-View my **[resume](https://drive.google.com/file/d/1mNOz4acLUrgNxhaOzOXPnuXEWGursi1I/view)**, 
+View my **[resume](https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing)**, 
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**, 
 or **[email](mailto:manuarorawork@gmail.com)** me. 
 <br>
