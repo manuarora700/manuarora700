@@ -54,7 +54,7 @@ Happy Coding, my brothers! 💪🏽 <br>
 <h3><strong>Just for the culture:</strong></h3>
 
 - 🔭 I’m currently working on: Fullstack development (Next JS, Gatsby and React) and DS Algo
-- 🌱 I’m currently learning: Complex algorithms
+- 🌱 I’m currently learning: Complex algorithms, Web Assembly and GraphQL
 - 👯 I’m looking to collaborate on: NextJS Projects and DevOps
 - 💬 Ask me about: Code, food and life
 - 📫 How to reach me: manuarorawork@gmail.com
