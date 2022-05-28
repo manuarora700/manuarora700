@@ -23,12 +23,18 @@ Thanks for increasing my visitors count :p  <br>
 You have finally discovered my Github profile. 👋
 <br>
 
-I write about Technology, snippets and resources at my **[blog](https://manuarora.in/blog)**.
+- 🖥 I’m a Senior Software Engineer, writer, and a creator.
+- 🔨 Building [Tailwind Master Kit](https://tailwindmasterkit.com) and [Algochurn](https://algochurn.com)
+- 🐥 [Tweet](https://twitter.com/mannupaaji) about technology, learning and memes.
+- 💯 Embracing Entrepreneurship at [PlaceholderTech](https://placeholdertech.in)
+- 💬 I write about Technology at [freeCodeCamp](https://www.freecodecamp.org/news/author/manu/) and my personal [blog](https://manuarora.in/blog).
+- 🔭 I’m currently working on: Fullstack development (Next JS, GraphQL, Firebase, React), DS Algo and SaaS growth.
+- 🤝 Shitpost every hour at [Instagram](https://instagram.com/maninthere)
 
-I've done a ton of **[projects](https://manuarora.in/projects)** with various technologies, 
-View my **[resume](https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing)**, 
-Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**, 
-or **[email](mailto:manuarorawork@gmail.com)** me. 
+I've done a ton of [projects](https://manuarora.in/projects) involving various stacks and technologies, 
+View my [resume](https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing), 
+Ask me anything [here](https://github.com/manuarora700/manuarora700/issues/new), 
+or [email](mailto:manuarorawork@gmail.com) me. 
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
 
@@ -51,16 +57,8 @@ Happy Coding, my brothers! 💪🏽 <br>
 <div align="center">
 
 </div>
-<h3><strong>Just for the culture:</strong></h3>
-
-- 🔭 I’m currently working on: Fullstack development (Next JS, Gatsby and React) and DS Algo
-- 🌱 I’m currently learning: Complex algorithms, Web Assembly and GraphQL
-- 👯 I’m looking to collaborate on: NextJS Projects and DevOps
-- 💬 Ask me about: Code, food and life
-- 📫 How to reach me: manuarorawork@gmail.com
 
 <br>
+See you on the other side! ;) 
+<br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
-
-
-Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
