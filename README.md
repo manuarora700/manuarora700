@@ -32,7 +32,7 @@ You have finally discovered my Github profile. 👋
 - 🤝 Shitpost every hour at [Instagram](https://instagram.com/maninthere)
 
 I've done a ton of [projects](https://manuarora.in/projects) involving various stacks and technologies, 
-View my [resume](https://drive.google.com/file/d/1D-alNVUh8OV6EnPj9wRQQLvpEhzWMiS3/view?usp=sharing), 
+View my [resume](https://drive.google.com/file/d/17x95t0hqPG98FFFzF9Cx9BacJ4qNcuBw/view?usp=sharing), 
 Ask me anything [here](https://github.com/manuarora700/manuarora700/issues/new), 
 or [email](mailto:manuarorawork@gmail.com) me. 
 <br>
