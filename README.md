@@ -24,7 +24,7 @@ A bit about me 👇
 - 🖥 I’m a Senior Software Engineer, writer, and a creator.
 - 🔨 Building [Tailwind Master Kit](https://tailwindmasterkit.com) and [Algochurn](https://algochurn.com)
 - 🐥 [Tweet](https://twitter.com/mannupaaji) about technology, learning and memes.
-- 💯 Embracing Entrepreneurship at [PlaceholderTech](https://placeholdertech.in)
+- 💯 Embracing Entrepreneurship at [Aceternity](https://aceternity.com)
 - 💬 I write about Technology at [freeCodeCamp](https://www.freecodecamp.org/news/author/manu/) and my personal [blog](https://manuarora.in/blog).
 - 🔭 I’m currently working on: Fullstack development (Next JS, GraphQL, Firebase, React), DS Algo and SaaS growth.
 - 🤝 Shitpost every hour at [Instagram](https://instagram.com/maninthere)
