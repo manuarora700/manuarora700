@@ -21,7 +21,8 @@
 A bit about me 👇
 <br>
 
-- 🖥 I’m a Senior Software Engineer, writer, and a creator.
+- 🖥 I’m a Senior Software Engineer, writer, and creator.
+- 👨‍💻 Tiny solo web dev studio at [Aceternity](https://aceternity.com)
 - 🔨 Building [Tailwind Master Kit](https://tailwindmasterkit.com) and [Algochurn](https://algochurn.com)
 - 🐥 [Tweet](https://twitter.com/mannupaaji) about technology, learning and memes.
 - 💯 Embracing Entrepreneurship at [Aceternity](https://aceternity.com)
