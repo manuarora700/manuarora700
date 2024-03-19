@@ -2,11 +2,6 @@
 <a href="https://www.twitter.com/mannupaaji" target="__blank"><img src="https://img.shields.io/twitter/follow/mannupaaji?style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </a>
-
-
-<br>
-<br>
-
 <br>
 
 - I build web apps that stand out
